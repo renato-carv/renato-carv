@@ -62,8 +62,8 @@ Power BI • SharePoint • Ollama • Git
 
 ## Certificações
 
-🎓 **AWS Certified Cloud Practitioner**  
-🎓 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+**AWS Certified Cloud Practitioner**  
+**Microsoft Certified: Azure Fundamentals (AZ-900)**
 
 ---
 
